@@ -2,6 +2,8 @@
 
 https://youtu.be/kzP5Lp_Z_AI
 
+Winner Announcement : https://qdrant.tech/blog/vector-space-hackathon-winners-2025/#twelvelabs-prize-qlassroom-yhha
+
 ## 1. Overview
 
 This project extends the concept of a *Zoom summary* application into a **multi-modal knowledge assistant**.
