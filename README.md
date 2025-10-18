@@ -60,6 +60,11 @@ By combining these modalities, the project enables richer retrieval, reasoning, 
 
   * All raw data (videos, PDFs, images) and processed metadata are stored in **Google Cloud Storage (GCS)**.
 
+![create KB](https://github.com/user-attachments/assets/d6c23148-7795-4a7b-863d-0d1c02b5225e)
+
+
+![user query](https://github.com/user-attachments/assets/32e83958-d847-4813-b29a-148dc88970e3)
+
 
 ---
 
